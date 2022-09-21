@@ -21,7 +21,10 @@ export const Banner = () => {
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <span className="tagline">Welcome to my Portfolio</span>
                                     <h1>Hi  I'm Moshe <br/> Web Developer </h1>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>Honest, hardworking, Responsible with a wide vision.Devoted and efficient, meticulously adhering to deadlines.Quick grasp of new material, with high ambitions and a desire to move forward, goal-oriented, highly initiative and motivated, self-learning, responsible and a team player.
+                                        a person with developed analytical thinking at a very high level,
+                                         with extraordinary and very unique creative thinking.
+                                    </p>
                                     <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
                                 </div>}
                         </TrackVisibility>

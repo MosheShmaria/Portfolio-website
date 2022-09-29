@@ -12,7 +12,7 @@ export const Projects = () => {
 
     const projects = [
         {
-            title: "Weather Forecast",
+            title: "a",
             description: "Design & Development",
             imgUrl: projImg1,
         },
